@@ -1,0 +1,80 @@
+{
+  "track_name": "Data Engineering",
+  "horizon": "Standard Q4 View",
+  "phases": [
+    {
+      "name": "Foundations Arch",
+      "weeks": 4,
+      "courses": [
+        {
+          "name": "Understanding Cloud Computing",
+          "hours": 2
+        },
+        {
+          "name": "Introduction to Python for Developers",
+          "hours": 4
+        },
+        {
+          "name": "Intermediate Python for Developers",
+          "hours": 4
+        },
+        {
+          "name": "Introduction to Git",
+          "hours": 3
+        },
+        {
+          "name": "Introduction to Object-Oriented Programming",
+          "hours": 4
+        }
+      ]
+    },
+    {
+      "name": "Data Handling Arch",
+      "weeks": 4,
+      "courses": [
+        {
+          "name": "Data Manipulation with pandas",
+          "hours": 4
+        },
+        {
+          "name": "Streamlined Data Ingestion with Python",
+          "hours": 4
+        },
+        {
+          "name": "Writing Efficient Python Code",
+          "hours": 4
+        },
+        {
+          "name": "Writing Code Tests in Python",
+          "hours": 4
+        },
+        {
+          "name": "Understanding Modern Data Architecture",
+          "hours": 2
+        }
+      ]
+    },
+    {
+      "name": "Orchestration Arch",
+      "weeks": 4,
+      "courses": [
+        {
+          "name": "Introduction to Data Pipelines",
+          "hours": 3
+        },
+        {
+          "name": "Introduction to Bash / Unix Command Line",
+          "hours": 3
+        },
+        {
+          "name": "Introduction to Apache Airflow",
+          "hours": 4
+        },
+        {
+          "name": "Containerization Concepts (Docker)",
+          "hours": 2
+        }
+      ]
+    }
+  ]
+}
